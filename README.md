@@ -67,21 +67,10 @@ If you want to view the code on your local machine:
 
 -----
 
-### 💡 Note for Mentors
+### 💡 For Mentors
 
 This portfolio is a living document. It will be updated regularly throughout the Outreachy contribution period to reflect new technical tasks, code snippets, and project outcomes.
 
 -----
 
-### ⚠️ A Small Fix for your `index.html`
 
-In the code you provided, your image source is a **local Windows path**:
-`src="C:\Users\MAYKISH\Desktop\..."`
-
-**This will not work on GitHub Pages** because GitHub doesn't have access to your "C:" drive. You should change that line in your `index.html` to a relative path:
-
-```html
-<img src="images/Farhana_png.png" alt="Profile Picture">
-```
-
-*(Make sure the folder in your GitHub repo is named `images` and the file is inside it\!)*
