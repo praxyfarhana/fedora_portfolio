@@ -6,7 +6,7 @@ This repository hosts my contribution portfolio for the **Outreachy Internship**
 ## Live Portfolio
 
 You can view the live, hosted version of this portfolio here:
-**[https://praxyfarhana.github.io/fedora\_portfolio\_outreachy/](https://www.google.com/search?q=https://praxyfarhana.github.io/fedora_portfolio_outreachy/)**
+**[https://praxyfarhana.github.io/fedora\_portfolio\_outreachy/](Fedora Portfolio https://share.google/rfY51kdeQCvVUrevQ)**
 
 -----
 
